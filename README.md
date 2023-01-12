@@ -31,7 +31,7 @@ Towards this end, certain behaviors and practices will not be tolerated.
 
 We expect all members of the DeStore Network community to abide by this Code of Conduct
 at all times in all DeStore Network community venues, online and in person, and in one-on-one
-communications pertaining to Filecoin affairs.
+communications pertaining to DeStore Network affairs.
 
 This policy covers the usage of DeStore Network public infrastructure, as well as other DeStore Network websites, DeStore Network related events,
 and any other services offered by or on behalf of the DeStore Network community. It also
